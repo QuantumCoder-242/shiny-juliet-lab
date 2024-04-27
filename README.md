@@ -26,5 +26,5 @@ Phonetic Generator is a web-based tool designed to convert text into its corresp
 Visit the [GitHub repository](https://github.com/QuantumCoder-242/shiny-juliet-lab/blob/main/README.md) to clone the project, report issues, and contribute.
 
 ## Author
-Created by [Navraj Singh](nsingh3@una.edu) - Feel free to contact me for any questions or feedback regarding this project.
+Created by [Navraj Singh] - Feel free to contact me for any questions or feedback regarding this project.
 
