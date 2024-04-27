@@ -21,8 +21,8 @@ The Phonetic Generator is a web-based tool designed to convert text into its cor
 - **Bootstrap**: For responsive design and styling components.
 
 ## GitHub Repository
-Visit the [GitHub repository](https://github.com/yourgithub/phonetic-generator) to clone the project, report issues, and contribute.
+Visit the [GitHub repository](https://github.com/QuantumCoder-242/shiny-juliet-lab/blob/main/README.md) to clone the project, report issues, and contribute.
 
 ## Author
-Created by [Your Name](your-email@example.com) - Feel free to contact me for any questions or feedback regarding this project.
+Created by [Navraj Singh](nsingh3@una.edu) - Feel free to contact me for any questions or feedback regarding this project.
 
