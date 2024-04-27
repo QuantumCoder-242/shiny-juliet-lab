@@ -1,7 +1,9 @@
 # Phonetic Generator
 
 ## Overview
-This is my final project for CIS -376, Phonetic Generator is a web-based tool designed to convert text into its corresponding NATO phonetic alphabet representation. This application is useful for clear communication, especially in environments where accurate transmission of words is crucial, such as in aviation, military, and customer service communications.
+This is my final project for CIS-376 and I have created a Phonetic Generator!
+
+Phonetic Generator is a web-based tool designed to convert text into its corresponding NATO phonetic alphabet representation. This application is useful for clear communication, especially in environments where accurate transmission of words is crucial, such as in aviation, military, and customer service communications.
 
 ## Features
 - **Real-Time Conversion**: Converts text as you type, displaying the NATO phonetic alphabet equivalents.
